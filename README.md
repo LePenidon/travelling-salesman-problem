@@ -1,5 +1,5 @@
-# travelling-salesman-problem
-A "Data Structure 1" project
+# 👣travelling-salesman-problem👣
+A "Data Structure 1" project 🖥💻💽💾
 
 To run our code: 
 
