@@ -5,6 +5,8 @@ To run our code:
 
 download all the files -> enter the folder with your O.S. terminal -> type "make"
 
+*obs:* just make sure if the file's name at "main.c" is correct.
+
 ---
 
 Feito com 💜 by
