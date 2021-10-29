@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "lista_rota.h": "c",
+        "item_lista_rota.h": "c",
+        "stdbool.h": "c",
+        "lista_input.h": "c",
+        "item_lista_mov.h": "c",
+        "item_lista_input.h": "c",
+        "lista_mov.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
